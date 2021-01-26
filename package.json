@@ -4,6 +4,7 @@
   "description": "backend for face recognition app",
   "main": "index.js",
   "dependencies": {
+    "nodemon": "^2.0.7",
     "bcrypt-nodejs": "0.0.3",
     "clarifai": "^2.9.1",
     "cors": "^2.8.5",
